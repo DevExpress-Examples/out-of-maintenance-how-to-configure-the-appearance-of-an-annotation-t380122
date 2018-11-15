@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/AnnotationSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/AnnotationSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: Configure the Appearance of an Annotation
 
 
