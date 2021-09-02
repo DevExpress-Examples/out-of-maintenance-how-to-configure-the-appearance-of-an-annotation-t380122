@@ -14,19 +14,19 @@ Imports System.Windows.Navigation
 Imports System.Windows.Shapes
 
 Namespace AnnotationSample
-    ''' <summary>
-    ''' Interaction logic for MainWindow.xaml
-    ''' </summary>
-    Partial Public Class MainWindow
-        Inherits Window
+	''' <summary>
+	''' Interaction logic for MainWindow.xaml
+	''' </summary>
+	Partial Public Class MainWindow
+		Inherits Window
 
-        Public Sub New()
-            InitializeComponent()
-        End Sub
-    End Class
+		Public Sub New()
+			InitializeComponent()
+		End Sub
+	End Class
 
-    Public Class TextAndImage
-        Public Property Text() As String
-        Public Property ImageSource() As ImageSource
-    End Class
+	Public Class TextAndImage
+		Public Property Text() As String
+		Public Property ImageSource() As ImageSource
+	End Class
 End Namespace
